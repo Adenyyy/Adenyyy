@@ -1,17 +1,12 @@
-### Hey there I'm Achlon! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there I'm Aden! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
-<a href="https://discord.gg/">
-  <img align="left" alt="Achlon's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/Achl0n">
-  <img align="left" alt="Lag4Lyfe_ | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <br />
 <br />
-Hey there! I'm Achlon, a self-taught developer and a freelancer from Singapore. I love learning and exploring new and different things.
+Hey there! I'm Aden, a Bachlors of Computer Science Student from Monash University. I love learning and exploring new technolgies.
 <br>
 
-- 💼 Want work done? Contact me on discord at: Achlon#9999
+- 💼 Want work done? Contact me on discord at: @achlon
 - 💬 Do add me on discord too if you just want to have a chat!
 
 **Languages and Tools:**  
