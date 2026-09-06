@@ -28,8 +28,8 @@ Hey there! I'm Aden, a Bachlors of Computer Science Student from Monash Universi
 <!--START_SECTION:waka-->
 
 ```txt
-Java   2 hrs 29 mins         ████████████████▒░░░░░░░░   65.08 %
-C++    1 hr 20 mins          ████████▓░░░░░░░░░░░░░░░░   34.92 %
+Java   47 mins               ████████████████████░░░░░   79.68 %
+C++    11 mins               █████░░░░░░░░░░░░░░░░░░░░   20.32 %
 ```
 
 <!--END_SECTION:waka-->
