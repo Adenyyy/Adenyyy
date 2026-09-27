@@ -28,11 +28,11 @@ Hey there! I'm Aden, a Bachlors of Computer Science Student from Monash Universi
 <!--START_SECTION:waka-->
 
 ```txt
-C++          2 hrs 36 mins         ███████████████████░░░░░░   75.83 %
-TypeScript   28 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
-Markdown     12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-JSON         9 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-XML          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+C++              2 hrs 36 mins         ██████████████████▒░░░░░░   73.39 %
+TypeScript       28 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
+Markdown         12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+JSON             9 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+Java             4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 ```
 
 <!--END_SECTION:waka-->
