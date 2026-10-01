@@ -31,7 +31,7 @@ Hey there! I'm Aden, a Bachlors of Computer Science Student from Monash Universi
 C++              2 hrs 23 mins         ████████████████████░░░░░   80.49 %
 Java             15 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
 Markdown         14 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
-Prisma           2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Prisma           2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 GitIgnore file   2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 ```
 
