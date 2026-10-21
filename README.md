@@ -1,12 +1,14 @@
 ### Hey there I'm Aden! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
-</a>
 <br />
 <br />
-Hey there! I'm Aden, a Bachlors of Computer Science Student from Monash University. I love learning and exploring new technolgies.
+Hey there! I'm Aden, a Bachelor of Computer Science student from Monash University. I love learning and exploring new technologies.
 <br>
 
-- 💼 Want work done? Contact me on discord at: @achlon
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adenyap-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/adenyap)
+[![Discord](https://img.shields.io/badge/Discord-@achlon-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/703975707310555247)
+
+- 💼 Want work done? Contact me on [LinkedIn](https://www.linkedin.com/in/adenyap) or on discord at: @achlon
 - 💬 Do add me on discord too if you just want to have a chat!
 
 **Languages and Tools:**  
