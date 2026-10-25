@@ -29,11 +29,11 @@ I'm a Bachelor of Computer Science student at Monash University. I love learning
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         35 mins               ██████▒░░░░░░░░░░░░░░░░░░   24.85 %
-TypeScript   29 mins               █████░░░░░░░░░░░░░░░░░░░░   20.49 %
-C++          22 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.92 %
-Prisma       15 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
-Python       12 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
+YAML         35 mins               ███████░░░░░░░░░░░░░░░░░░   28.55 %
+TypeScript   29 mins               ██████░░░░░░░░░░░░░░░░░░░   23.49 %
+C++          22 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.29 %
+Python       12 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
+Markdown     9 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
 ```
 
 <!--END_SECTION:waka-->
